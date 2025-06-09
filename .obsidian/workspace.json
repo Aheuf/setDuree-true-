@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1be75cf4332e8901",
+        "id": "38057fb737ace35d",
         "type": "tabs",
         "children": [
           {
-            "id": "665ee8a1c5aa70a7",
+            "id": "f9a055d052fd4c14",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🎮 Projects/💉 Basoges/📂 Doc/Présentation générale V 1.0.0.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Présentation générale V 1.0.0"
-            }
-          },
-          {
-            "id": "edf7cec6b9c42e1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🎮 Projects/💉 Basoges/📂 Doc/Basoge_Arbre de compétence.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Basoge_Arbre de compétence"
+              "title": "New tab"
             }
           }
         ]
@@ -182,10 +164,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "665ee8a1c5aa70a7",
+  "active": "f9a055d052fd4c14",
   "lastOpenFiles": [
-    "🎮 Projects/💉 Basoges/📂 Doc/Basoge_Arbre de compétence.md",
+    "🎮 Projects/⏰ Plat-run/Nouveau Document texte.txt",
+    "🎮 Projects/🛡️Hexastorm/keep.md",
+    "🎮 Projects/⏰ Plat-run/keep.md",
     "🎮 Projects/💉 Basoges/📂 Doc/Présentation générale V 1.0.0.md",
+    "🎮 Projects/💉 Basoges/📂 Doc/Basoge_Arbre de compétence.md",
     "🎮 Projects/♣️ Triple Triade Remix/📂 Doc/Règles modifié 1.0.0.md",
     "🎮 Projects/♣️ Triple Triade Remix/📂 Doc/Règles de base.md",
     "🎮 Projects/♣️ Triple Triade Remix/📂 Doc",
